@@ -8,6 +8,6 @@ module "ec2_instance" {
   instance_type_value = "t2.micro"
   subnet_id_value     = "subnet-0808dfb672a2273bc"
   key_value           = "linux"
-  tag_name            = "Ram2"
+  tag_name            = "Ram1"
 
 }
