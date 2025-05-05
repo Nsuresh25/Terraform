@@ -1,0 +1,4 @@
+# ignore ALL .log files
+*.hcl
+*.tfstate
+*.backup
